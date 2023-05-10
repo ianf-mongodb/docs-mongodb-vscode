@@ -189,7 +189,7 @@ Logged messages appear in the :guilabel:`Output` panel in VSCode.
 
 Logging to the console can be useful to track the output of certain
 commands in your playground, such as results after a particular query or
-aggregation.
+aggregation. test
 
 Tutorials
 ---------
